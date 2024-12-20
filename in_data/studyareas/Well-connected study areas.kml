@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1h4EebHYIhzyfmGS2Pjid5dBt8vx4eOTn">
+	<name>Well-connected study areas</name>
+	<gx:CascadingStyle kml:id="__managed_style_0560B4701D34F2AEACDB">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>7.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0FB074C48D34F2AEACD7">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00E22CF48934F2AEACD6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0FB074C48D34F2AEACD7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0560B4701D34F2AEACDB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="088E7664B734F26CB85C">
+		<name>Grizzly Bear 1</name>
+		<LookAt>
+			<longitude>-135.7538951208147</longitude>
+			<latitude>58.89531288460758</latitude>
+			<altitude>805.8723859936705</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1273123.647244871</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-135.1633562225609,59.68235306714848,1375.982859958198</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F7E5459E234F26E724E">
+		<name>Grizzly Bear 2</name>
+		<LookAt>
+			<longitude>-118.5502895377199</longitude>
+			<latitude>52.07488312819127</latitude>
+			<altitude>1494.942103285694</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1927973.550566733</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-115.3998745630879,49.57143389027422,1657.039033470898</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D8D43181D34F270FA28">
+		<name>Brown Bear 1</name>
+		<LookAt>
+			<longitude>11.12538860441463</longitude>
+			<latitude>45.60093566226217</latitude>
+			<altitude>653.0753623710505</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1045141.487713158</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>13.98540545619791,45.80334463702707,126.1466872931815</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF8473B2E34F277F28D">
+		<name>Lion 1</name>
+		<LookAt>
+			<longitude>29.6479197196681</longitude>
+			<latitude>-24.64425959591637</latitude>
+			<altitude>1106.882499018761</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>886420.4328784347</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>30.75499700742266,-23.97078143534472,464.6928415380668</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0638651E7734F2797AAF">
+		<name>Lion 2</name>
+		<LookAt>
+			<longitude>23.33637213544346</longitude>
+			<latitude>-21.4529158425145</latitude>
+			<altitude>971.7529272636126</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>206409.6456409246</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>23.55350114369203,-21.36596953009944,970.1812241487233</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E7992EF9F34F27ADB18">
+		<name>Lion 3</name>
+		<LookAt>
+			<longitude>13.55715945121394</longitude>
+			<latitude>-19.45381939318123</latitude>
+			<altitude>958.4214054015406</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>426829.1999986769</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>13.93493759686466,-19.33548886303287,1166.84740663452</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01151A97B034F27C030F">
+		<name>Northern Tanzania</name>
+		<LookAt>
+			<longitude>35.74594295243686</longitude>
+			<latitude>-3.870024892642194</latitude>
+			<altitude>1077.950278283413</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>346473.6066938192</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>36.18772789878247,-3.731137780175972,1312.056317921008</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09095A60BC34F27D9397">
+		<name>Lion 4</name>
+		<LookAt>
+			<longitude>10.98661807702357</longitude>
+			<latitude>6.494950698378552</latitude>
+			<altitude>1514.98656888503</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1769035.283429325</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>14.46650186713524,8.806374409196795,577.0771426146144</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0518FF34CE34F29721ED">
+		<name>Giraffe 1</name>
+		<LookAt>
+			<longitude>1.433944754653584</longitude>
+			<latitude>12.99847376664544</latitude>
+			<altitude>13.97323778362057</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>565539.5714485645</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>2.542257322458787,13.32159140496166,306.246318837426</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C51E800DC34F299064E">
+		<name>Giraffe 2</name>
+		<LookAt>
+			<longitude>7.171475784526913</longitude>
+			<latitude>13.85455298935031</latitude>
+			<altitude>414.6082687549896</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>446468.780721277</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>8.128969518194358,14.35664306642844,442.2488991860224</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F23A8275734F29A9F0E">
+		<name>Giraffe 3</name>
+		<LookAt>
+			<longitude>33.85837163645078</longitude>
+			<latitude>8.089949261062086</latitude>
+			<altitude>415.7126530078555</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>196999.5729349181</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>33.89902814065696,8.03671965575735,413.4749970578735</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DC1B4F5DD34F29C703E">
+		<name>Giraffe 4</name>
+		<LookAt>
+			<longitude>37.42918290009116</longitude>
+			<latitude>0.2834377019149814</latitude>
+			<altitude>1532.908456820391</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>210367.6468285918</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>37.45340196733375,0.4223332717373225,1128.008128863274</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD2E0F84E34F29E96B0">
+		<name>Giraffe 5</name>
+		<LookAt>
+			<longitude>16.73334459837754</longitude>
+			<latitude>-25.06314175939197</latitude>
+			<altitude>1966.991706991023</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1240681.451884657</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>16.21698747560549,-25.03373097643336,1691.458056187493</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="037206F92634F2A38C78">
+		<name>Tiger 1</name>
+		<LookAt>
+			<longitude>79.59059210225503</longitude>
+			<latitude>22.20334779399824</latitude>
+			<altitude>562.4491612072202</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1635059.152849317</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>81.38136724167714,22.63799663121472,1006.171039499766</coordinates>
+		</Point>
+	</Placemark>
+	<Folder id="51D05E0491000001">
+		<name>centroidscorri_ExportFeature</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Folder id="51D05E0491000002">
+			<name>centroidscorri_ExportFeature</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+			<Placemark id="51D05E0491000003">
+				<name>Czechia</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Czechia</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>location</td>
+
+<td>Czechia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>centroid_x</td>
+
+<td>15.8048</td>
+
+</tr>
+
+<tr>
+
+<td>centroid_y</td>
+
+<td>49.05758</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+]]></description>
+				<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+				<Point>
+					<coordinates>15.80480000000006,49.05757999906644,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="51D05E0491000004">
+				<name>Italy</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Italy</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>location</td>
+
+<td>Italy</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>centroid_x</td>
+
+<td>12.40182</td>
+
+</tr>
+
+<tr>
+
+<td>centroid_y</td>
+
+<td>42.59092</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+]]></description>
+				<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+				<Point>
+					<coordinates>12.40182000000004,42.59091999906001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="51D05E0491000005">
+				<name>Poland</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Poland</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>location</td>
+
+<td>Poland</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>centroid_x</td>
+
+<td>18.33045</td>
+
+</tr>
+
+<tr>
+
+<td>centroid_y</td>
+
+<td>50.82069</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+]]></description>
+				<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+				<Point>
+					<coordinates>18.33045000000004,50.82068999907654,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="51D05E0491000006">
+				<name>Germany</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Germany</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>location</td>
+
+<td>Germany</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>centroid_x</td>
+
+<td>10.71443</td>
+
+</tr>
+
+<tr>
+
+<td>centroid_y</td>
+
+<td>51.20586</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+]]></description>
+				<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+				<Point>
+					<coordinates>10.71443000000005,51.20585999907917,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="51D05E0491000007">
+				<name>Idaho</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Idaho</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>location</td>
+
+<td>Idaho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>centroid_x</td>
+
+<td>-113.9964</td>
+
+</tr>
+
+<tr>
+
+<td>centroid_y</td>
+
+<td>42.74509</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+]]></description>
+				<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+				<Point>
+					<coordinates>-113.9964,42.74508999905962,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="51D05E0491000008">
+				<name>Kansas</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kansas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>location</td>
+
+<td>Kansas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>centroid_x</td>
+
+<td>-95.79266</td>
+
+</tr>
+
+<tr>
+
+<td>centroid_y</td>
+
+<td>38.54428</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+]]></description>
+				<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+				<Point>
+					<coordinates>-95.79265999999994,38.54427999908035,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="51D05E0491000009">
+				<name>Ohio</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ohio</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>location</td>
+
+<td>Ohio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>centroid_x</td>
+
+<td>-83.90271</td>
+
+</tr>
+
+<tr>
+
+<td>centroid_y</td>
+
+<td>39.80249</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+]]></description>
+				<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+				<Point>
+					<coordinates>-83.90270999999996,39.80248999907202,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Placemark id="0426311B6F34F2B71181">
+		<name>Tasmanian devil</name>
+		<LookAt>
+			<longitude>145.6912137558828</longitude>
+			<latitude>-42.05964331523434</latitude>
+			<altitude>686.1141188626831</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00012099502446</gx:fovy>
+			<range>1112101.831852645</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>147.9116836560248,-41.87046214062063,535.58020201338</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DE228F0C934F2BA4987">
+		<name>Eastern Grey Kangaroo 1</name>
+		<LookAt>
+			<longitude>145.7180297430688</longitude>
+			<latitude>-29.40537828409993</latitude>
+			<altitude>-46.86497451149578</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00012099502446</gx:fovy>
+			<range>3409268.228268027</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>152.8447967389637,-30.1981538340006,282.0353785985764</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06E0A46B6634F2BE35C5">
+		<name>Asian elephant 1</name>
+		<LookAt>
+			<longitude>101.9437998985842</longitude>
+			<latitude>-2.000308950485166</latitude>
+			<altitude>262.8876759583463</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00012099502446</gx:fovy>
+			<range>994791.2392477691</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>102.7394779495246,-1.408672680443033,74.22960409894215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FCEB3DDE834F2C3160E">
+		<name>Asian elephant 2</name>
+		<LookAt>
+			<longitude>96.86760444570044</longitude>
+			<latitude>4.855902162123495</latitude>
+			<altitude>1789.626791672516</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00012099502446</gx:fovy>
+			<range>279371.4527304098</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>96.80579765317069,5.076196412109575,173.7326762029349</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01C187A2CA34F2C92CFA">
+		<name>Asian elephant 3</name>
+		<LookAt>
+			<longitude>89.84538622161757</longitude>
+			<latitude>26.7167033093971</latitude>
+			<altitude>162.1803708344736</altitude>
+			<heading>6.087549118624759</heading>
+			<tilt>21.20598012885964</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>52259.09769737163</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>89.84835120944474,26.71914284808462,156.4982115000951</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D39CBC3C634F2D28E20">
+		<name>Nubian Ibex 1</name>
+		<LookAt>
+			<longitude>35.23743363582018</longitude>
+			<latitude>31.70367395691143</latitude>
+			<altitude>578.953104426656</altitude>
+			<heading>4.606521733860133</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>114951.5060821362</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>35.43879000462762,31.69526436308653,-159.1696886369403</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0741BEF5DA34F2DF9479">
+		<name>Giant Anteater 1</name>
+		<LookAt>
+			<longitude>-55.86774763553365</longitude>
+			<latitude>-19.27531126260583</latitude>
+			<altitude>149.7784452715114</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>83899.13599834777</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-55.81072443699343,-19.2566980591248,152.2312899802245</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EBC2CA8D934F2F369EB">
+		<name>Maned wolf 1</name>
+		<LookAt>
+			<longitude>-47.02642102602153</longitude>
+			<latitude>-21.50242461347742</latitude>
+			<altitude>647.5288470609448</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>132904.2263151146</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-46.98232417965347,-21.51191155406566,648.326529326482</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CA3B5726434F2F5036A">
+		<name>Maned wolf 2</name>
+		<LookAt>
+			<longitude>-45.85675809396905</longitude>
+			<latitude>-11.86610247884881</latitude>
+			<altitude>772.148534173896</altitude>
+			<heading>-0.003831513601122047</heading>
+			<tilt>1.487132244954323</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>254854.2311452702</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-45.79587369023741,-12.03971871636311,894.0040671234113</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="068B8F399534F2F99A85">
+		<name>White-lipped peccary 1</name>
+		<LookAt>
+			<longitude>-57.12159571029321</longitude>
+			<latitude>-11.56074699509058</latitude>
+			<altitude>283.4278815802828</altitude>
+			<heading>-0.001042011155705992</heading>
+			<tilt>1.817725114838041</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>550564.7863163799</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-56.84726934429935,-11.21315166960067,356.8724569810215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FCDDFEE5C34F366AC84">
+		<name>Mountain lion 1</name>
+		<LookAt>
+			<longitude>-49.78203395479329</longitude>
+			<latitude>-21.27051862375669</latitude>
+			<altitude>434.3163456124501</altitude>
+			<heading>-1.793215325180819e-07</heading>
+			<tilt>3.297562596812363</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>80077.24257431924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-49.81092779424439,-21.31910383693852,394.5938186249756</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="022F95121B34F368BA2E">
+		<name>Mountain lion  2</name>
+		<LookAt>
+			<longitude>-60.01667323305541</longitude>
+			<latitude>-21.71667513524183</latitude>
+			<altitude>144.6320474196671</altitude>
+			<heading>34.30112299229636</heading>
+			<tilt>44.58107478235065</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5203.263141365605</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-60.0167991857605,-21.71703492134964,143.3368586685622</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00CCA7D94C34F36B0E46">
+		<name>Mountain lion 3</name>
+		<LookAt>
+			<longitude>-80.14707251400357</longitude>
+			<latitude>-3.872283357370226</latitude>
+			<altitude>596.476683118656</altitude>
+			<heading>-25.8728026360973</heading>
+			<tilt>30.82968434082201</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5709.265736181987</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-80.15222495014756,-3.867379133421334,572.4362174149843</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0099227C7B34F36DC4AF">
+		<name>Several species 1</name>
+		<LookAt>
+			<longitude>-77.94919405879122</longitude>
+			<latitude>7.621823534063805</latitude>
+			<altitude>1055.399737053521</altitude>
+			<heading>-25.9935376711862</heading>
+			<tilt>30.97842513896322</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>335512.0751794428</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-77.74905706600742,7.994926656874615,217.2363183077084</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023F49173E34F3702563">
+		<name>Several species 2</name>
+		<LookAt>
+			<longitude>-83.23820673453527</longitude>
+			<latitude>8.285797091036564</latitude>
+			<altitude>16.01347090893018</altitude>
+			<heading>-26.99264711671488</heading>
+			<tilt>30.39437812778342</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>203573.0219529569</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-83.32720107820084,8.398731434264088,82.00837513540495</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00F4BFE9D634F37256A1">
+		<name>Mountain lion 4</name>
+		<LookAt>
+			<longitude>-117.0392294034426</longitude>
+			<latitude>33.09041970141688</latitude>
+			<altitude>289.8640548062063</altitude>
+			<heading>-34.3773798122676</heading>
+			<tilt>31.40572401070055</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>431943.467462808</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-117.0920416768693,33.16704764005421,277.7445386011015</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E7E4088A934F373E5AA">
+		<name>Mountain lions 5</name>
+		<LookAt>
+			<longitude>-120.9113485210078</longitude>
+			<latitude>36.71583017092631</latitude>
+			<altitude>724.3220682251778</altitude>
+			<heading>-36.62328478347217</heading>
+			<tilt>31.40333889544554</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>431434.423596114</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-120.5139601968893,37.29071585593914,129.7415797730851</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0269233CD434F37AE56B">
+		<name>Mountain lion 6</name>
+		<LookAt>
+			<longitude>-110.1162991028234</longitude>
+			<latitude>43.77046232452991</latitude>
+			<altitude>2767.700096785113</altitude>
+			<heading>-5.013145357181321e-09</heading>
+			<tilt>45.38807357110745</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>71539.81056346558</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-110.092901450311,43.70811941964885,2770.008924007243</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="038E0F422034F380CAEC">
+		<name>Jaguar 1</name>
+		<LookAt>
+			<longitude>-42.72781436537679</longitude>
+			<latitude>-8.88407699565926</latitude>
+			<altitude>515.5655794037747</altitude>
+			<heading>2.549761771699351</heading>
+			<tilt>35.06704000655152</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>68332.13168098593</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-42.61973655035264,-8.805780524707991,535.3227412277488</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD588347C34F385261B">
+		<name>Jaguar 2</name>
+		<LookAt>
+			<longitude>-56.73406944145822</longitude>
+			<latitude>-27.64126456437075</latitude>
+			<altitude>20.53430996156417</altitude>
+			<heading>2.187285745772937</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1050048.606031984</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-57.0039715637684,-28.14572432439403,69.71319533747837</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="034969B8BF34F388720A">
+		<name>Several species 3</name>
+		<LookAt>
+			<longitude>-70.59531996499408</longitude>
+			<latitude>-12.44108619936274</latitude>
+			<altitude>252.5673828962656</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>171513.1079038605</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-70.35443652403764,-12.35011589136407,325.9156574992958</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05C478F1A934F6C61F69">
+		<name>Elk 1</name>
+		<LookAt>
+			<longitude>-96.98604787977253</longitude>
+			<latitude>49.23373783364578</latitude>
+			<altitude>225.9055010469004</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>579893.0040802807</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-96.55395617692582,49.11945222617253,219.6811406274037</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C0F988E2D34F6C7EE70">
+		<name>Moose 1</name>
+		<LookAt>
+			<longitude>-119.1150424350298</longitude>
+			<latitude>53.8654250322173</latitude>
+			<altitude>1095.517870293027</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25419.21810053755</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-119.1227002228506,53.87582240563372,1185.893597475372</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04E9B2D47134F6CB5A95">
+		<name>Moose 2</name>
+		<LookAt>
+			<longitude>-111.5072583809956</longitude>
+			<latitude>56.98398541105289</latitude>
+			<altitude>298.9544723274823</altitude>
+			<heading>2.719625348818427</heading>
+			<tilt>35.33072329196353</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>36649.84413937201</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-111.4606888410309,56.94297142587803,265.4895283272832</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0892E6CB4234F6CF2289">
+		<name>Several species 4</name>
+		<LookAt>
+			<longitude>-104.5863552789833</longitude>
+			<latitude>41.5260371077935</latitude>
+			<altitude>2511.117414643202</altitude>
+			<heading>3.681265941660742</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>6074836.84812963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-105.028277894961,39.96259436056856,2833.038984289135</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A803CD7E934F6D11950">
+		<name>Elk 2</name>
+		<LookAt>
+			<longitude>-102.77230255127</longitude>
+			<latitude>46.89488759981212</latitude>
+			<altitude>757.3580717898074</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>39283.92601794563</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-102.8305089056881,46.85633859903773,750.8363983803533</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A7949290234F6D1C696">
+		<name>Elk 3</name>
+		<LookAt>
+			<longitude>-113.1150663480975</longitude>
+			<latitude>36.60446519421424</latitude>
+			<altitude>1991.848211913172</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2338718.787138463</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-111.9594955987733,35.28042432416531,2468.475210244475</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F1F0321F034F6D3A257">
+		<name>Bobcat 1</name>
+		<LookAt>
+			<longitude>-77.81993550635805</longitude>
+			<latitude>35.98447231427907</latitude>
+			<altitude>35.45557057247188</altitude>
+			<heading>6.070441661246966e-10</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>37639.86064778175</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-77.84393006828834,35.90356954653654,28.49496409819092</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="009A1A6B4B34F6D679F1">
+		<name>Bobcat 2</name>
+		<LookAt>
+			<longitude>-72.66308786768762</longitude>
+			<latitude>41.75743824982231</latitude>
+			<altitude>25.67824179973501</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>74487.34852083027</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-72.47158617078809,41.80002865530614,129.8936503281666</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01F10ECA3434F6D842DF">
+		<name>Several species 5</name>
+		<LookAt>
+			<longitude>-86.7113602890639</longitude>
+			<latitude>44.60324555594088</latitude>
+			<altitude>-1218.340906157402</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4455652.041240335</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-87.69822127850769,46.14118346082038,360.458283678176</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EA6A558E434F6DC01B7">
+		<name>Black bear 1</name>
+		<LookAt>
+			<longitude>-94.06607333870107</longitude>
+			<latitude>34.92688456136719</latitude>
+			<altitude>228.3489532202065</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>61373.39308485389</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-94.08537269203336,34.97950436283065,258.1771105449693</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004E17759C34F6DE8EEC">
+		<name>Black bear 2</name>
+		<LookAt>
+			<longitude>-83.19171992529705</longitude>
+			<latitude>35.26370540819799</latitude>
+			<altitude>722.1681152172537</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>162163.9125532285</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-83.10574056995061,35.2955908965887,783.3825277520641</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08FC50AC8734F6E11C07">
+		<name>Black bear 3</name>
+		<LookAt>
+			<longitude>-81.24679867844348</longitude>
+			<latitude>27.16942621784918</latitude>
+			<altitude>-39.48572025307192</altitude>
+			<heading>-1.338070093565859e-07</heading>
+			<tilt>13.95362093318021</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>332641.8680771068</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-81.45764214545929,27.33231070218712,109.4565863050525</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E2638E0BF34F6E3CF92">
+		<name>Mink 1</name>
+		<LookAt>
+			<longitude>-88.41680596028115</longitude>
+			<latitude>40.11239343950749</latitude>
+			<altitude>461.3354333971241</altitude>
+			<heading>-8.741268067328144e-09</heading>
+			<tilt>14.12105451547718</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>970163.8450764122</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-88.49755515820044,39.9964624926486,518.9061865692096</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="044BD6FBED34F6E56F29">
+		<name>Bighorn Sheep 1</name>
+		<LookAt>
+			<longitude>-106.8513638136471</longitude>
+			<latitude>35.10350695717371</latitude>
+			<altitude>1775.384316185055</altitude>
+			<heading>-2.909708727345336e-07</heading>
+			<tilt>13.34577687436748</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>564647.7478596568</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-106.3766547746993,35.38572687694143,1621.142071375563</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BE4F9FBFF34F6E79EF5">
+		<name>Reindeer 1</name>
+		<LookAt>
+			<longitude>12.01599467355913</longitude>
+			<latitude>60.60478462687616</latitude>
+			<altitude>165.7595908774585</altitude>
+			<heading>0.1527787969758103</heading>
+			<tilt>28.96785648603367</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>93898.52049146779</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>12.28312857129406,60.69483253961472,289.7825700498128</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F233D5B4434F6EF329A">
+		<name>Red deer 1</name>
+		<LookAt>
+			<longitude>25.63410582278864</longitude>
+			<latitude>41.61553204737984</latitude>
+			<altitude>393.5204302380407</altitude>
+			<heading>6.95280905741703e-09</heading>
+			<tilt>45.05398187824682</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10164.75314155687</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>25.63222817121943,41.61532932568257,413.0540599644959</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E7CF8FF7134F6F25D81">
+		<name>Iberian lynx 1</name>
+		<LookAt>
+			<longitude>-7.871610366713947</longitude>
+			<latitude>38.04122990863213</latitude>
+			<altitude>259.633987411854</altitude>
+			<heading>1.096977155250136e-08</heading>
+			<tilt>32.42693735918326</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>400329.4414743036</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-7.951958544530929,38.02865318574811,247.0523551711424</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D60C33A4034F6F8CFB6">
+		<name>Wildcat 1</name>
+		<LookAt>
+			<longitude>-4.071242834468545</longitude>
+			<latitude>57.07887012691269</latitude>
+			<altitude>266.4626256644555</altitude>
+			<heading>-1.616857893640963</heading>
+			<tilt>41.45129367579317</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>21029.50093447231</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>-4.009088016096056,57.10164052695558,306.036129184425</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03B32D314034F6FB08D1">
+		<name>Forest elephant 1</name>
+		<LookAt>
+			<longitude>12.66363144326428</longitude>
+			<latitude>0.1175564382262969</latitude>
+			<altitude>513.6369187969577</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>148771.9267938472</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>12.76206102915958,0.1660776372059989,494.2992440121427</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A002D04C234F702A7CC">
+		<name>Lion 5</name>
+		<LookAt>
+			<longitude>22.54548644913075</longitude>
+			<latitude>-32.34127947043788</latitude>
+			<altitude>867.1060229438185</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>16072.22703231499</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>22.53265277322574,-32.35311765425244,880.4442317441859</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FD3FC89A34F70C748C">
+		<name>African elephant 1</name>
+		<LookAt>
+			<longitude>32.17237244430691</longitude>
+			<latitude>-11.76813069647093</latitude>
+			<altitude>674.1762523450004</altitude>
+			<heading>0.03104969230516808</heading>
+			<tilt>27.84952512277408</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>14394.5159463957</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E22CF48934F2AEACD6</styleUrl>
+		<Point>
+			<coordinates>32.16828796429699,-11.76773335160395,686.85273761103</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
