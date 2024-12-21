@@ -10,9 +10,9 @@ script1_generate_sandbox.R sets up a set of data layers that we can use to devel
 
 script2_sandbox_test_indices_calcs.R then uses these data to test functions for calculating the protected area connectivity indices
 
-script2_sandbox_test_indices_calcs.R sources separate R scripts with functions to test. Currently, these are the function scripts to test:
+script2_sandbox_test_indices_calcs.R sources separate R scripts with functions to test. Currently, these are the function scripts that are available to test in script2_sandbox_test_indices_calcs.R:
 
 1) calculate_pronet.R
-
+(add others here as they are developed)
 
 
